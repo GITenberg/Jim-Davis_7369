@@ -1,0 +1,31 @@
+_repo: Jim-Davis_7369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: http://en.wikipedia.org/wiki/John_Masefield
+description: This 1911 novel about a twelve-year-old boy who falls in with a band
+  of bloodthirsty pirates is a maritime thriller on par with Robert Louis Stevenson
+  or Rudyard Kipling. At first Jim loves the excitement of his new lifestyle, but
+  soon finds out he's in over his head! The author, who spent part of his youth keeping
+  journals of his own steamship and windjammer travels, brings to life the beauty
+  and peril of the oceans.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailing ships -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Jim Davis
+url: http://www.gutenberg.org/ebooks/7369
