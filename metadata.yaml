@@ -1,5 +1,8 @@
 _repo: Jim-Davis_7369
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Masefield, John
@@ -14,6 +17,8 @@ description: This 1911 novel about a twelve-year-old boy who falls in with a ban
   soon finds out he's in over his head! The author, who spent part of his youth keeping
   journals of his own steamship and windjammer travels, brings to life the beauty
   and peril of the oceans.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7369#Jim-Davis
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
